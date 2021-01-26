@@ -1,5 +1,5 @@
 # qbot ping plugin
-Ping pong! Grabs latency and API latency.
+Ping Command.
 
 Instructions
 * Create a file named `ping.js` and put in inside `commands` folder.
